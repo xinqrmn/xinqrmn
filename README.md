@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Roman
 - 👀 I’m interested in creating web applications
-- 🌱 I’m currently learning website layout and am smoothly moving on to a deep study of JavaScript
+- 🌱 I'm currently honing my Vue skills and learning Nuxt.
 - 💞️ I’m looking to collaborate on with cool teams or web studios
 - 📫 How to reach me: mongo4558@gmail.com
 
