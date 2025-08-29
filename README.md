@@ -8,7 +8,7 @@ My GitHub contains real-world projects, pet projects, and microservices showcasi
 
 ## 🚀 Current Project
 
-### [Nuxt Twitch News](https://github.com/xinqrmn/nuxt-twitch-news) *(real client project)*
+### [Nuxt Twitch News](https://github.com/xinqrmn/twitch-news-nuxt) *(real client project)*
 
 A **news and statistics platform** for Twitch streamers, developed for a client using **Nuxt 4**, **TypeScript**, and **Shadcn/UI**.  
 Features include news feeds, category filtering, dynamic UI components, and optimized data fetching.
