@@ -55,14 +55,14 @@ Diploma project demonstrating modern responsive layout and component structure.
 
 ---
 
-### 🛍 [Marcho](https://github.com/xinqrmn/project-marcho)
+### [Marcho](https://github.com/xinqrmn/project-marcho)
 My first e-commerce project — product catalog and shopping cart built from scratch.
 
 - **Demo:** [GitHub Pages](https://xinqrmn.github.io/project-marcho/)
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 **Frontend:** Vue 3, Nuxt 3/4, TypeScript, React, Next.js  
 **UI:** PrimeVue, Shadcn/UI, TailwindCSS, Nuxt UI  
@@ -72,7 +72,7 @@ My first e-commerce project — product catalog and shopping cart built from scr
 
 ---
 
-## 📫 Contact
+## Contact
 
 - **Telegram:** [@xinQ_rmn](https://t.me/xinQ_rmn)  
 - **Email:** mongo4558@gmail.com  
