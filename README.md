@@ -6,7 +6,7 @@ My GitHub showcases both **real-world commercial projects** and **personal exper
 
 ---
 
-## Current Project
+## Projects
 
 ### [Twitch News (Nuxt 4 + NestJS)](https://github.com/xinqrmn/twitch-news-nuxt)
 A **news and analytics platform** for Twitch streamers — originally a client project.  
@@ -18,25 +18,12 @@ Built fully from scratch with SSR, custom CMS, and a complete backend.
 **Features:** custom admin panel, role system, Markdown editor, API caching, Swagger docs  
 **Status:** actively developed
 
----
-
-## Featured Projects (Pinned)
-
 ### [Grafana MP3 Player Plugin](https://github.com/xinqrmn/grafana-plugin-mp3)
 A custom **Grafana plugin** for playing MP3 audio recordings collected from noise sensors.
 
 - **Tech:** TypeScript, Grafana Plugin SDK, React  
 - **Features:** audio streaming, file list UI, integration with Node-RED / databases  
 - **Use case:** industrial monitoring dashboards
-
----
-
-### [SNMP Config Generator](https://github.com/xinqrmn/kai-iot-config)
-Microservice for generating JSON configurations for SNMP converters  
-(AC units, DGUs, MIPS, USD, and more).
-
-- **Tech:** Node.js, TypeScript, Vue 3, PrimeVue  
-- **Highlights:** dynamic form generation, type-safe schema builder, JSON export
 
 ---
 
