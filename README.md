@@ -16,7 +16,6 @@ Built fully from scratch with SSR, custom CMS, and a complete backend.
 **CMS:** Vue 3, PrimeVue, TypeScript, Milkdown  
 **Backend:** NestJS, PostgreSQL, TypeORM, Redis  
 **Features:** custom admin panel, role system, Markdown editor, API caching, Swagger docs  
-**Status:** actively developed
 
 ---
 
