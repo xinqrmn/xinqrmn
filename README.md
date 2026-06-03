@@ -18,6 +18,8 @@ Built fully from scratch with SSR, custom CMS, and a complete backend.
 **Features:** custom admin panel, role system, Markdown editor, API caching, Swagger docs  
 **Status:** actively developed
 
+---
+
 ### [Grafana MP3 Player Plugin](https://github.com/xinqrmn/grafana-plugin-mp3)
 A custom **Grafana plugin** for playing MP3 audio recordings collected from noise sensors.
 
